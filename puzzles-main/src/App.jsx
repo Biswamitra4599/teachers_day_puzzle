@@ -384,7 +384,7 @@ const PuzzleBoard = ({ puzzle, onSolve, isSolved, nextPuzzle }) => {
                 </h3>
                 <div className="bg-rose-50 p-6 rounded-2xl mb-8 relative">
                   <div className="absolute -top-3 left-6 text-rose-400">
-                    <Heart size={24} className="fill-rose-400" />
+                    {/* <Heart size={24} className="fill-rose-400" /> */}
                   </div>
                   <p className="text-2xl italic text-rose-800 font-serif leading-relaxed">
                     "{puzzle.message}"
