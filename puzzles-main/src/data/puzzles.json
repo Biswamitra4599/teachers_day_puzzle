@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "title": "Sunset Serenity",
+    "image": "/images/puzzles/ghibli_1.png",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "",
+    "tags": ["nature", "romantic"]
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "title": "Morning Bloom",
+    "image": "/images/puzzles/ghibli_2.png",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "Life with you is a field of endless blossoms. 🌸",
+    "tags": ["flowers", "sweet"]
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "title": "Ocean Breeze",
+    "image": "/images/puzzles/ghibli_3.png",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "My love for you is as deep as the ocean and as infinite as the tide. 🌊",
+    "tags": ["ocean", "breeze"]
+  },
+  {
+    "id": 4,
+    "level": 2,
+    "title": "Mountain Magic",
+    "image": "/images/puzzles/ghibli_4.png",
+    "grid": {
+      "rows": 4,
+      "cols": 3
+    },
+    "message": "I would climb any mountain just to see your smile. 🏔️",
+    "tags": ["mountain", "adventure"]
+  },
+  {
+    "id": 5,
+    "level": 2,
+    "title": "Autumn Whimsy",
+    "image": "/images/puzzles/ghibli_5.png",
+    "grid": {
+      "rows": 3,
+      "cols": 4
+    },
+    "message": "Every leaf falls for you, just like I do. 🍂",
+    "tags": ["autumn", "warm"]
+  },
+  {
+    "id": 6,
+    "level": 3,
+    "title": "Galaxy Heart",
+    "image": "/images/puzzles/ghibli_6.png",
+    "grid": {
+      "rows": 4,
+      "cols": 4
+    },
+    "message": "You are the center of my universe. ✨",
+    "tags": ["space", "magic"]
+  },
+  {
+    "id": 7,
+    "level": 3,
+    "title": "Enchanted Forest",
+    "image": "/images/puzzles/ghibli_7.png",
+    "grid": {
+      "rows": 5,
+      "cols": 4
+    },
+    "message": "",
+    "tags": ["forest", "dreamy"]
+  }
+]
