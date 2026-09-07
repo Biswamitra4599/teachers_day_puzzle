@@ -380,7 +380,7 @@ const PuzzleBoard = ({ puzzle, onSolve, isSolved, nextPuzzle }) => {
 
               <div className="p-8 text-center">
                 <h3 className="text-4xl font-black text-rose-600 mb-4 drop-shadow-sm">
-                  Love Found!
+                  Puzzle Solved with love!
                 </h3>
                 <div className="bg-rose-50 p-6 rounded-2xl mb-8 relative">
                   <div className="absolute -top-3 left-6 text-rose-400">
@@ -390,7 +390,7 @@ const PuzzleBoard = ({ puzzle, onSolve, isSolved, nextPuzzle }) => {
                     "{puzzle.message}"
                   </p>
                   <div className="absolute -bottom-3 right-6 text-rose-400">
-                    <Heart size={24} className="fill-rose-400" />
+                    {/* <Heart size={24} className="fill-rose-400" /> */}
                   </div>
                 </div>
 
@@ -471,12 +471,12 @@ export default function App() {
                transition={{ repeat: Infinity, duration: 1.5 }}
                className="absolute -top-1 -right-1"
              >
-               <Heart size={32} className="fill-rose-500" />
+               {/* <Heart size={32} className="fill-rose-500" /> */}
              </motion.div>
           </div>
-          <h1 className="text-5xl font-black text-slate-800 mb-4 tracking-tight">HeartPuzzle</h1>
+          <h1 className="text-5xl font-black text-slate-800 mb-4 tracking-tight">Puzzle</h1>
           <p className="text-slate-500 text-lg mb-10 font-medium">
-            Pieces of a story, fragments of a dream. Solve them to unlock the heart within.
+           Welcoome to the teachers day puzzle game! Get ready to challenge your mind and have fun solving puzzles. Click the button below to start your adventure!
           </p>
           <button 
             onClick={() => setGameStarted(true)}
@@ -503,11 +503,11 @@ export default function App() {
             className="flex items-center gap-3 cursor-pointer group"
             onClick={() => setGameStarted(false)}
           >
-            <div className="p-3 bg-rose-500 rounded-2xl shadow-lg shadow-rose-200 group-hover:scale-110 transition-transform">
+            {/* <div className="p-3 bg-rose-500 rounded-2xl shadow-lg shadow-rose-200 group-hover:scale-110 transition-transform">
               <Heart className="text-white fill-white" size={24} />
-            </div>
+            </div> */}
             <div>
-              <h1 className="text-2xl font-black text-slate-800">HeartPuzzle</h1>
+              <h1 className="text-2xl font-black text-slate-800">Teachers' Day Puzzle</h1>
               <p className="text-xs font-bold text-rose-400 uppercase tracking-widest">Chapter {level} • Challenge {currentPuzzleIndex + 1}</p>
             </div>
           </div>
@@ -578,13 +578,13 @@ export default function App() {
               </div>
             </div>
 
-            <div className="bg-gradient-to-br from-rose-500 to-pink-500 p-8 rounded-[2rem] text-white shadow-xl shadow-rose-200">
+            {/* <div className="bg-gradient-to-br from-rose-500 to-pink-500 p-8 rounded-[2rem] text-white shadow-xl shadow-rose-200">
               <Sparkles className="mb-4 opacity-80" />
               <h4 className="text-lg font-bold mb-2">Did you know?</h4>
               <p className="text-rose-50 opacity-90 text-sm leading-relaxed">
                 Puzzles are like relationships. They take patience, effort, and sometimes a little hint to see how perfectly everything fits together.
               </p>
-            </div>
+            </div> */}
           </aside>
         </main>
       </div>

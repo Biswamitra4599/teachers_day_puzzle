@@ -2,85 +2,147 @@
   {
     "id": 1,
     "level": 1,
-    "title": "Sunset Serenity",
-    "image": "/images/puzzles/ghibli_1.png",
+    "title": "Dr. Adway Mitra",
+    "image": "/images/puzzles/adway.jpeg",
     "grid": {
       "rows": 3,
       "cols": 3
     },
-    "message": "",
-    "tags": ["nature", "romantic"]
+    "message": "The Nature Lover",
+    "tags": ["cute", "sweet"]
   },
   {
     "id": 2,
     "level": 1,
-    "title": "Morning Bloom",
-    "image": "/images/puzzles/ghibli_2.png",
+    "title": "Dr. Somdyuti Paul",
+    "image": "/images/puzzles/somdyuti.jpeg",
     "grid": {
       "rows": 3,
       "cols": 3
     },
-    "message": "Life with you is a field of endless blossoms. 🌸",
-    "tags": ["flowers", "sweet"]
+    "message": "The Solo Traveler",
+    "tags": ["rough", "tough"]
   },
   {
     "id": 3,
     "level": 1,
-    "title": "Ocean Breeze",
-    "image": "/images/puzzles/ghibli_3.png",
+    "title": "Dr. Prabhat Kumar Mishra",
+    "image": "/images/puzzles/prabhat.jpeg",
     "grid": {
       "rows": 3,
       "cols": 3
     },
-    "message": "My love for you is as deep as the ocean and as infinite as the tide. 🌊",
+    "message": "The Robot Lover",
     "tags": ["ocean", "breeze"]
   },
   {
     "id": 4,
     "level": 2,
-    "title": "Mountain Magic",
-    "image": "/images/puzzles/ghibli_4.png",
+    "title": "Dr. Jiaul Paik Hoque",
+    "image": "/images/puzzles/jiaul.jpeg",
     "grid": {
       "rows": 4,
       "cols": 3
     },
-    "message": "I would climb any mountain just to see your smile. 🏔️",
+    "message": "The Family Man.",
     "tags": ["mountain", "adventure"]
   },
   {
     "id": 5,
     "level": 2,
-    "title": "Autumn Whimsy",
-    "image": "/images/puzzles/ghibli_5.png",
+    "title": "Dr. Plaban Kumar Bhowmik",
+    "image": "/images/puzzles/plaban.jpeg",
     "grid": {
       "rows": 3,
       "cols": 4
     },
-    "message": "Every leaf falls for you, just like I do. 🍂",
-    "tags": ["autumn", "warm"]
+    "message": "The Boss of the Department",
+    "tags": ["forest", "dreamy"]
   },
   {
     "id": 6,
     "level": 3,
-    "title": "Galaxy Heart",
-    "image": "/images/puzzles/ghibli_6.png",
+    "title": "Dr. Kaustav Rudra",
+    "image": "/images/puzzles/kaustav.jpeg",
     "grid": {
       "rows": 4,
       "cols": 4
     },
-    "message": "You are the center of my universe. ✨",
+    "message": "The Silent Observer",
     "tags": ["space", "magic"]
   },
   {
     "id": 7,
     "level": 3,
-    "title": "Enchanted Forest",
-    "image": "/images/puzzles/ghibli_7.png",
+    "title": "Dr. Mahesh Mohan M R",
+    "image": "/images/puzzles/mahesh.jpeg",
     "grid": {
       "rows": 5,
       "cols": 4
     },
-    "message": "",
+    "message": "The Perfectionist",
     "tags": ["forest", "dreamy"]
+  },
+  {
+    "id": 8,
+    "level": 4,
+    "title": "Dr. Anindita Maiti",
+    "image": "/images/puzzles/anindita.jpeg",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "The Accent Queen",
+    "tags": ["cute", "sweet"]
+  },
+  {
+    "id": 9,
+    "level": 4,
+    "title": "Dr. Shreya Ghosh",
+    "image": "/images/puzzles/shreya.jpeg",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "The Plant Lover",
+    "tags": ["cute", "sweet"]
+  },
+  {
+    "id": 10,
+    "level": 4,
+    "title": "Dr. Soumen Basu",
+    "image": "/images/puzzles/soumen.jpeg",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "The Artist",
+    "tags": ["cute", "sweet"]
+  },
+  {
+    "id": 11,
+    "level": 5,
+    "title": "Dr. Kota Srinivas Reddy",
+    "image": "/images/puzzles/kota.jpeg",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "The Philosopher",
+    "tags": ["cute", "sweet"]
+  },
+  {
+    "id": 12,
+    "level": 5,
+    "title": "Dr. Amlan Chakrabarti",
+    "image": "/images/puzzles/amlan.jpeg",
+    "grid": {
+      "rows": 3,
+      "cols": 3
+    },
+    "message": "The Solid Personal",
+    "tags": ["cute", "sweet"]
   }
+
+
 ]
